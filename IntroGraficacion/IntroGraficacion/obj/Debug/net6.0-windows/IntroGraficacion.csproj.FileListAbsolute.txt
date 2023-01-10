@@ -1,0 +1,17 @@
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\bin\Debug\net6.0-windows\IntroGraficacion.exe
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\bin\Debug\net6.0-windows\IntroGraficacion.deps.json
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\bin\Debug\net6.0-windows\IntroGraficacion.runtimeconfig.json
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\bin\Debug\net6.0-windows\IntroGraficacion.dll
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\bin\Debug\net6.0-windows\IntroGraficacion.pdb
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.csproj.AssemblyReference.cache
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.Form1.resources
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.csproj.GenerateResource.cache
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.AssemblyInfoInputs.cache
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.AssemblyInfo.cs
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.csproj.CoreCompileInputs.cache
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.dll
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\refint\IntroGraficacion.dll
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.pdb
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\IntroGraficacion.genruntimeconfig.cache
+C:\Users\Emilio Rodriguez\source\repos\IntroGraficacion\IntroGraficacion\obj\Debug\net6.0-windows\ref\IntroGraficacion.dll
